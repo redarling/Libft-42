@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Libft is a library of various C functions that are commonly used in programming. It contains functions for memory manipulation, string manipulation, linked lists, and more. This library is designed to be reusable across multiple projects, providing a foundation of common functionalities.
+'Libft is a library of various C functions that are commonly used in programming. It contains functions for memory manipulation, string manipulation, linked lists, and more. This library is designed to be reusable across multiple projects, providing a foundation of common functionalities.'
 
 ## 🛠️ Installation Instructions
 
