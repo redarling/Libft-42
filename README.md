@@ -39,20 +39,20 @@ Libft is a library of various C functions that are commonly used in programming.
 
         int main(void)
         {
-        char    *line;
-        char    **splited_line;
-        int             i;
+                char    *line;
+                char    **splited_line;
+                int             i;
 
-        i = -1;
-        line = ft_strdup("Hello, World! It's my first code");
-        if (!line)
-                return (1);
-        splited_line = ft_split(line, ' ');
-        if (!splited_line)
-                return (1);
-        while (i++, splited_line[i])
-                printf("%s\n", splited_line[i]);
-        return (0);
+                i = -1;
+                line = ft_strdup("Hello, World! It's my first code");
+                if (!line)
+                        return (1);
+                splited_line = ft_split(line, ' ');
+                if (!splited_line)
+                        return (1);
+                while (i++, splited_line[i])
+                        printf("%s\n", splited_line[i]);
+                return (0);
         }
 
 5. Save and close, then type following commands:
