@@ -55,12 +55,13 @@ Libft is a library of various C functions that are commonly used in programming.
         return (0);
         }
 
-5. Save and close, then compile by following command:
+5. Save and close, then type following commands:
 
         cc main.c libft.a
+
         ./a.out
 
-6. Output:
+7. Output:
 
         Hello,
         World!
